@@ -1,4 +1,4 @@
-<h1 align="center">creator, vanish</h1>
+<h1 align="center">Creator, vanish</h1>
 <h3 align="center">this is my github page.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvvanish&label=Profile%20views&color=0e75b6&style=flat" alt="vvvanish" /> </p>
