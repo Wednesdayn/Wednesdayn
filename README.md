@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vvvanish" alt="vvvanish" /></a> </p>
 
-- 🔭 I’m currently working on [SigmaClient](https://github.com/vvvanish/SigmaClient)
+- 🔭 I’m currently working on [PsychoClient](https://github.com/vvvanish/SigmaClient)
 
 - 🌱 I’m currently learning **Lua, C, C++, C#,**
 
