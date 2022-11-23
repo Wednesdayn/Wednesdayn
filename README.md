@@ -94,7 +94,7 @@
   
 
 <br/>  
---
+## Discord Server
 <div align="center">
             <a href="https://discord.gg/YhzHmTgjAQ" target="_blank" style="display: inline-block;">
                 <img
