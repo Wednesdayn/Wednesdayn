@@ -100,7 +100,7 @@
 <div align="center">
             <a href="https://discord.gg/YhzHmTgjAQ" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg" 
+                    src="https://static-prod.adweek.com/wp-content/uploads/2021/07/DiscordLogo-652x367.jpg" 
                     align="center"
                 />
             </a></div>
