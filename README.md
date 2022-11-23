@@ -91,10 +91,6 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=n13yzzaf3gsd0o3hv84x1zvct&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=vvvanish&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
