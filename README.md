@@ -1,4 +1,4 @@
-# Creator, Vanish  
+# Creator, Wednesday  
   
 
 
@@ -7,7 +7,7 @@
 
     🌱 I’m currently learning Lua, C, C++, C#,
 
-    📫 How to reach me vanish#4844
+    📫 How to reach me ᲼᲼᲼᲼#7257
   
   
 
