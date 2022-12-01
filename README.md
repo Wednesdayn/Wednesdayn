@@ -7,7 +7,7 @@
 
     🌱 I’m currently learning Lua, C, C++, C#,
 
-    📫 How to reach me ᲼᲼᲼᲼#7257
+    📫 How to reach me Wed#7257
   
   
 
